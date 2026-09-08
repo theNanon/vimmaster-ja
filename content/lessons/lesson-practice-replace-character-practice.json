@@ -1,0 +1,33 @@
+{
+  "id": "lesson-practice-replace-character-practice",
+  "version": 1,
+  "name": "Replace Character Practice",
+  "metadata": {
+    "revision": 1,
+    "author": "VIM Master Team",
+    "githubUsername": "vimmaster",
+    "created": "2026-07-09",
+    "difficulty": "beginner",
+    "tags": [
+      "practice",
+      "r"
+    ],
+    "estimatedTime": 60,
+    "prerequisites": [],
+    "learningObjectives": []
+  },
+  "instructions": "r を使って1文字を置き換えます。間違っている文字を置き換えてタイプミスを修正してください。",
+  "initialContent": [
+    "Thxs is a test",
+    "VxM is awesome",
+    "Reylace characters",
+    "Fxx typos quickly"
+  ],
+  "targetContent": [
+    "This is a test",
+    "VIM is awesome",
+    "Replace characters",
+    "Fix typos quickly"
+  ],
+  "focusCommand": "VIM"
+}

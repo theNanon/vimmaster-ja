@@ -1,0 +1,32 @@
+{
+    "id": "lesson-basic-movement",
+    "version": 1,
+    "name": "基本移動",
+    "metadata": {
+        "revision": 1,
+        "author": "VIM Master Team",
+        "githubUsername": "vimmaster",
+        "created": "2026-07-09",
+        "difficulty": "beginner",
+        "tags": [
+            "normal"
+        ],
+        "estimatedTime": 60,
+        "prerequisites": [],
+        "learningObjectives": []
+    },
+    "instructions": "h、j、k、l を使ってカーソルを移動し、目標の文字「$」まで到達してください。",
+    "initialContent": [
+        "Move with h(left), j(down), k(up), l(right).",
+        "Your cursor starts here.",
+        "",
+        "The goal is to navigate to the dollar sign.",
+        "Practice moving around the text.",
+        "Once you are comfortable, move to the '$'."
+    ],
+    "target": {
+        "row": 5,
+        "col": 39
+    },
+    "focusCommand": "hjkl"
+}

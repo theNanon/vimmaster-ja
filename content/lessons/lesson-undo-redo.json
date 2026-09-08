@@ -1,0 +1,29 @@
+{
+  "id": "lesson-undo-redo",
+  "version": 1,
+  "name": "Undo / Redo",
+  "metadata": {
+    "revision": 1,
+    "author": "VIM Master Team",
+    "githubUsername": "vimmaster",
+    "created": "2026-07-09",
+    "difficulty": "beginner",
+    "tags": [
+      "normal"
+    ],
+    "estimatedTime": 60,
+    "prerequisites": [],
+    "learningObjectives": []
+  },
+  "instructions": "中央の行を dd で削除し、u で元に戻したあと、Ctrl+r でやり直してください。最後は中央の行が削除された状態にします。",
+  "initialContent": [
+    "Top line.",
+    "Remove me.",
+    "Bottom line."
+  ],
+  "targetContent": [
+    "Top line.",
+    "Bottom line."
+  ],
+  "focusCommand": "u"
+}

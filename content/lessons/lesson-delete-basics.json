@@ -1,0 +1,29 @@
+{
+  "id": "lesson-delete-basics",
+  "version": 1,
+  "name": "Delete Basics",
+  "metadata": {
+    "revision": 1,
+    "author": "VIM Master Team",
+    "githubUsername": "vimmaster",
+    "created": "2026-07-09",
+    "difficulty": "beginner",
+    "tags": [
+      "normal"
+    ],
+    "estimatedTime": 60,
+    "prerequisites": [],
+    "learningObjectives": []
+  },
+  "instructions": "dd を使って中央の行全体を削除します。次に dw を使って最終行の「mistake」を削除してください。必要なら x で1文字だけ削除できます。",
+  "initialContent": [
+    "Keep this line.",
+    "Delete this entire line.",
+    "Fix this mistake here."
+  ],
+  "targetContent": [
+    "Keep this line.",
+    "Fix this here."
+  ],
+  "focusCommand": "x"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "lesson-append-and-open-lines",
+    "version": 1,
+    "name": "Append and Open Lines",
+    "metadata": {
+        "revision": 1,
+        "author": "VIM Master Team",
+        "githubUsername": "vimmaster",
+        "created": "2026-07-09",
+        "difficulty": "beginner",
+        "tags": [
+            "normal"
+        ],
+        "estimatedTime": 60,
+        "prerequisites": [],
+        "learningObjectives": []
+    },
+    "instructions": "a でカーソルの後ろに文字を追加します。o で下に新しい行を開き、O で上に新しい行を開きます。2つの行の間に新しい行を追加し、「Inserted here」と入力してください。",
+    "initialContent": [
+        "First line.",
+        "Second line."
+    ],
+    "targetContent": [
+        "First line.",
+        "Inserted here",
+        "Second line."
+    ],
+    "focusCommand": "a"
+}

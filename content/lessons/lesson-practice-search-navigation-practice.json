@@ -1,0 +1,32 @@
+{
+  "id": "lesson-practice-search-navigation-practice",
+  "version": 1,
+  "name": "Search Navigation Practice",
+  "metadata": {
+    "revision": 1,
+    "author": "VIM Master Team",
+    "githubUsername": "vimmaster",
+    "created": "2026-07-09",
+    "difficulty": "beginner",
+    "tags": [
+      "practice",
+      "nN"
+    ],
+    "estimatedTime": 60,
+    "prerequisites": [],
+    "learningObjectives": []
+  },
+  "instructions": "最初に「word」を検索し、n で次の一致、N で前の一致へ移動します。3番目の出現位置まで移動してください。",
+  "initialContent": [
+    "Find the word in this text",
+    "Another word appears here",
+    "The third word is the target",
+    "More word instances follow",
+    "Final word at the end"
+  ],
+  "target": {
+    "row": 2,
+    "col": 10
+  },
+  "focusCommand": "n"
+}

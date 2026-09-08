@@ -1,0 +1,29 @@
+{
+  "id": "lesson-search-backward",
+  "version": 1,
+  "name": "Search Backward (?)",
+  "metadata": {
+    "revision": 1,
+    "author": "VIM Master Team",
+    "githubUsername": "vimmaster",
+    "created": "2026-07-09",
+    "difficulty": "beginner",
+    "tags": [
+      "normal"
+    ],
+    "estimatedTime": 60,
+    "prerequisites": [],
+    "learningObjectives": []
+  },
+  "instructions": "? を押して「alpha」と入力し Enter を押します。そのあと N を1回押して前の一致へ移動してください。",
+  "initialContent": [
+    "alpha beta gamma",
+    "delta epsilon alpha",
+    "zeta eta theta"
+  ],
+  "target": {
+    "row": 0,
+    "col": 0
+  },
+  "focusCommand": "?"
+}
