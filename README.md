@@ -1,6 +1,8 @@
-# VIM Master 日本語版
+# VIM Master 非公式日本語版
 
-[VIM Master](https://github.com/renzorlive/vimmaster) v3.0.0 の日本語ローカライズ版です。
+[VIM Master](https://github.com/renzorlive/vimmaster) v3.0.0 をベースにした、非公式の日本語ローカライズ版です。
+
+本リポジトリは元プロジェクトの公式配布物ではありません。オリジナルの著作権表示および MIT License を保持しています。
 
 - オリジナル: renzorlive/vimmaster
 - 日本語UI・レッスン・練習モード・プロフィールをローカライズ
